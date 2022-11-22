@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-07T18:22:18 CEST" name="Suite" finished-at="2022-08-07T18:22:18 CEST" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2022-08-07T18:22:18 CEST" name="Test" finished-at="2022-08-07T18:22:18 CEST" duration-ms="33">
+      <class name="qacilckaacademy.AppiumTest">
+        <test-method signature="PostJira()[pri:0, instance:qacilckaacademy.AppiumTest@57a78e3]" started-at="2022-08-07T18:22:18 CEST" name="PostJira" finished-at="2022-08-07T18:22:18 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method signature="deleteTvitter()[pri:0, instance:qacilckaacademy.AppiumTest@57a78e3]" started-at="2022-08-07T18:22:18 CEST" name="deleteTvitter" finished-at="2022-08-07T18:22:18 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTvitter -->
+      </class> <!-- qacilckaacademy.AppiumTest -->
+      <class name="qacilckaacademy.RESTAPITest">
+        <test-method signature="IOSApps()[pri:0, instance:qacilckaacademy.RESTAPITest@1349883]" started-at="2022-08-07T18:22:18 CEST" name="IOSApps" finished-at="2022-08-07T18:22:18 CEST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAppAnroid()[pri:0, instance:qacilckaacademy.RESTAPITest@1349883]" started-at="2022-08-07T18:22:18 CEST" name="NativeAppAnroid" finished-at="2022-08-07T18:22:18 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAnroid -->
+      </class> <!-- qacilckaacademy.RESTAPITest -->
+      <class name="qacilckaacademy.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:qacilckaacademy.SeleniumTest@4681c175]" started-at="2022-08-07T18:22:18 CEST" name="BrowserAutomation" finished-at="2022-08-07T18:22:18 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:qacilckaacademy.SeleniumTest@4681c175]" started-at="2022-08-07T18:22:18 CEST" name="elementsUI" finished-at="2022-08-07T18:22:18 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- qacilckaacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
