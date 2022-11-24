@@ -11,6 +11,18 @@ public class AppiumTest {
 	public void PostJira() { 
 
 		System.out.println("PostJira"); 
+		System.out.println("PostJira"); 
+
+	} 
+	
+	@Test 
+
+	  
+
+	public void PostJira1() { 
+
+		System.out.println("PostJira"); 
+		System.out.println("PostJira"); 
 
 	} 
 
@@ -20,6 +32,10 @@ public class AppiumTest {
 
 	public void deleteTvitter() { 
 
+		System.out.println("deleteTvitter"); 
+		
+		System.out.println("deleteTvitter"); 
+		
 		System.out.println("deleteTvitter"); 
 
 	} 

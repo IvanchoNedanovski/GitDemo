@@ -30,5 +30,13 @@ public class RESTAPITest {
 		System.out.println("IOSApps"); 
 
 	} 
+	
+	@Test 
+
+	public void IOSApps1() { 
+
+		System.out.println("IOSApps"); 
+
+	} 
 
 }
